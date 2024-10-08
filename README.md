@@ -37,8 +37,8 @@ To run this project, you'll need to have Python installed on your machine. Follo
 4. Set up your TMDB API key in the code (replace the API key in the fetch_poster function).
 ## Usage
 To run the application, execute the following command:
-```bash
-streamlit run app.py
+    ```bash
+    streamlit run app.py
 
 ## How It Works
 Data Loading: The application loads movie data and similarity data from pickle files.
