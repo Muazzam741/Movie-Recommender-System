@@ -36,7 +36,7 @@ To run this project, you'll need to have Python installed on your machine. Follo
 3. Create a model directory and place your movie_list.pkl and similarity.pkl files inside it.
 4. Set up your TMDB API key in the code (replace the API key in the fetch_poster function).
 ## Usage
-To run the application, execute the following command:
+    To run the application, execute the following command:
     ```bash
     streamlit run app.py
 
