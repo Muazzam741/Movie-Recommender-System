@@ -41,11 +41,12 @@ To run this project, you'll need to have Python installed on your machine. Follo
     streamlit run app.py
 
 ## How It Works
-Data Loading: The application loads movie data and similarity data from pickle files.
-User Input: Users can select a movie from the dropdown menu.
-Recommendation: The app computes movie recommendations using a content-based filtering approach, fetching movie posters from the TMDB API.
-Display: Recommended movies and their posters are displayed in a user-friendly layout.
-Contributing
+1. Data Loading: The application loads movie data and similarity data from pickle files.
+2. User Input: Users can select a movie from the dropdown menu.
+3. Recommendation: The app computes movie recommendations using a content-based filtering approach, fetching movie posters from the TMDB API.
+4. Display: Recommended movies and their posters are displayed in a user-friendly layout.
+
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, feel free to fork the repository and submit a pull request.
 
 ## License
